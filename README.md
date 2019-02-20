@@ -2,4 +2,4 @@
 
 `docker build -t <name> .`
 
-Because MS doesn't bother updating their own images ¯\\_(ツ)_/¯
+Because MS doesn't bother updating their own images ¯\\\_(ツ)\_/¯
